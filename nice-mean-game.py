@@ -48,7 +48,7 @@ def nice_mean(nice,mean,name): #it starts with 0, 0, and person's name
         if pick == "n":
             print("\nThe stranger walks away smiling.")
             nice = (nice + 1) #0 + 1
-            stop - False #shuts the loop off if they choose nice
+            stop = False #shuts the loop off if they choose nice
         if pick == "m":
             print("\nThe stranger glares at you menancingly and storms off...")
             mean = (mean + 1)
