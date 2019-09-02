@@ -5,6 +5,8 @@ The first project is a nice-mean game where the player is to answer an question 
 #The following is a list of upcoing Python Projects:
 
 Blog App
-Portfolio All
+
+
+Portfolio App
 
 
