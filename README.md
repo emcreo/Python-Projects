@@ -1,7 +1,10 @@
 # Python Projects
 
-# Here I will add my upcoming Python Projects:
+The first project is a nice-mean game where the player is to answer an question and the software determine whether they are nice or mean.
 
-# Blog App
+#The following is a list of upcoing Python Projects:
 
-# Portfolio App
+Blog App
+Portfolio All
+
+
